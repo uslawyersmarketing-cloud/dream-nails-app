@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dream_blush">#F7E7E4</color>
+    <color name="dream_rose">#D9877F</color>
+    <color name="dream_rose_dark">#B85F59</color>
+    <color name="dream_cream">#FFF9F7</color>
+    <color name="dream_ink">#221D1D</color>
+    <color name="dream_muted">#7F6B68</color>
+    <color name="white">#FFFFFF</color>
+</resources>
